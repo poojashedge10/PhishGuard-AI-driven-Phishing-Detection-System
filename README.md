@@ -42,10 +42,15 @@ Provide a **user-friendly, end-to-end phishing detection solution** combining re
 PhishGuard/
 │
 ├─ app.py # Main Streamlit application
+
 ├─ text_fraud_model.pkl # ML model for text detection
+
 ├─ text_vectorizer.pkl # Vectorizer for text preprocessing
+
 ├─ url_fraud_model.pkl # ML model for URL detection
+
 ├─ requirements.txt # Python dependencies
+
 └─ README.md # Project documentation
 
 
